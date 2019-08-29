@@ -1,5 +1,11 @@
 # E01a-Control-Structues
 
+--------------------------------------------------
+WHAT I DID:
+Placed name and year on license agreement, filled out question and attempted use with each variation of code,finally detailed the probably uses of each line of code in main10.
+
+-----------------------------------------------------
+
 Let's start writing some Python code! This is the first set of exercises for MSCH-C220; they should give you the tools to build your first game.
 
 In order to complete the exercise, you will need to do the following:
